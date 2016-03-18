@@ -35,5 +35,8 @@ I have installed the Active Directory module locally so automatically the combob
 ####Result Files
 You can get results in either a CSV format or HTML format
 ![alt tag](https://github.com/bwya77/CryptoScanner-FileScanner/blob/master/Screenshots/Results.png)
+In the CSV I can view the files it found, the directory it is in, the size (Kb) and the file owner
+![alt tag](https://github.com/bwya77/CryptoScanner-FileScanner/blob/master/Screenshots/Results_CSV.png)
+
 
 
