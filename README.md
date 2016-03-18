@@ -29,7 +29,7 @@ Here I am looking for extensions with .ecc on the local machine. I entered in lo
 ![alt tag](https://github.com/bwya77/CryptoScanner-FileScanner/blob/master/Screenshots/LocalHost_Scan.png)
 
 ####Get-ADComputer to Fill the ComboBox
-I have installed the Active Directory module locally so automatically the combobox is filled with computer objects found in Active Directory
+I have installed the Active Directory module locally so automatically the combobox is filled with computer objects found in AD
 ![alt tag](https://github.com/bwya77/CryptoScanner-FileScanner/blob/master/Screenshots/Parse_ComputerList.png)
 
 ####Result Files
