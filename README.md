@@ -4,7 +4,7 @@
 v0.0.1
 
 ####Description
-CryptoScanner / FileScanner is a application written in PowerShell that can scan a local or remote computer for files hit by crypto. It searches based on user input by either entering in a extension or part of a file name. It will scan all logical disks attached to a machine (Disk Type 3). It will compile a report on all matching files, the size, directory they are in and the file owner. You can enter your own computer in the combobox or select one from the list. It uses the Active Directory PowerShell module to compile a list of computers so if you would like to use this feature you will need to install the AD module locally.
+CryptoScanner / FileScanner is a application written in PowerShell that can scan a local or remote computer for files hit by crypto. It searches based on user input by either entering in a extension or part of a file name. It will scan all logical disks attached to a machine (Disk Type 3). It will compile a report on all matching files, the size, directory they are located in, and the file owner. You can enter your own computer in the combobox or select one from the list. It uses the Active Directory PowerShell module to compile a list of computers so if you would like to use this feature you will need to install the AD module locally.
 
 Included is the .exe if you just want to run it, or the .msi if you want to install it.
 
